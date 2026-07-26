@@ -9,11 +9,6 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&pause=1000&color=0059FF&center=true&vCenter=true&width=600&lines=대학생+맞춤+장학금+·+공모전+매칭+서비스;UMC+10기+FitMe+팀입니다+👋" alt="Typing SVG" />
-
-<br/>
-<br/>
-
 <img src="https://img.shields.io/badge/UMC-10th-0059FF?style=for-the-badge&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/2026-Project-0059FF?style=for-the-badge&logoColor=white" />
@@ -26,10 +21,8 @@
 
 ## 📌 서비스 소개
 
-> 흩어져 있는 장학금·공모전 정보를 한 곳에서,
-> 내 조건(학교 / 거주지역 / 학점 / 관심분야)에 딱 맞게.
-
-대학생을 위한 **장학금·공모전 자동 매칭** 모바일 웹 서비스입니다.
+파편화된 장학금·공모전 정보와 흩어진 지원 이력으로 기회를 놓치는 대학생을 위해,
+핏미는 조건 기반 맞춤 추천부터 지원 이력 통합관리, 마감 알림까지 제공하는 원스톱 플랫폼입니다.
 
 ---
 
