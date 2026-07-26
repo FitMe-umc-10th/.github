@@ -32,9 +32,7 @@
 |:---:|:---|
 | Frontend | React |
 | Backend | Spring Boot |
-| Design | Figma |
-| 소셜 로그인 | Kakao, Naver |
-| 데이터 | 한국장학재단 공공 API (장학금), 수동 큐레이션 (공모전) |
+| Design | Figma, Photoshop, Illustrator |
 
 ---
 
