@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0059FF&height=200&section=header&text=FitMe&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=핏미&descAlignY=60&descColor=ffffff" />
+<img src="./logo.png" width="280" alt="FitMe Logo" />
 
-# 🎓 FitMe (핏미)
+<br/>
+<br/>
 
 **대학생 맞춤 장학금 · 공모전 매칭 서비스**
 
