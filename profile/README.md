@@ -4,14 +4,12 @@
 
 <br/>
 
-<img src="./logo.png" width="340" alt="FitMe Logo" />
+<img src="https://raw.githubusercontent.com/FitMe-umc-10th/.github/main/profile/logo.png" width="340" alt="FitMe Logo" />
 
 <br/>
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&pause=1000&color=0059FF&center=true&vCenter=true&width=600&lines=대학생+맞춤+장학금+·+공모전+매칭+서비스;UMC+10기+FitMe+팀입니다+👋" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&pause=1000&color=0059FF&center=true&vCenter=true&width=600&lines=대학생+맞춤+장학금+·+공모전+매칭+서비스;UMC+10기+FitMe+팀입니다+👋" alt="Typing SVG" />
 
 <br/>
 <br/>
