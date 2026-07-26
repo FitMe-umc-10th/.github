@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="./logo.png" width="280" alt="FitMe Logo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0059FF&height=180&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<img src="./logo.png" width="260" alt="FitMe Logo" />
 
 <br/>
 <br/>
 
 **대학생 맞춤 장학금 · 공모전 매칭 서비스**
+
+<br/>
 
 [![UMC](https://img.shields.io/badge/UMC-10th-0059FF?style=for-the-badge)](https://makeus.in)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/FitMe-umc-10th/FitMe_front)
@@ -56,6 +60,6 @@
 
 <div align="center">
 
-UMC 10th · 2026
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0059FF&height=120&section=footer" />
 
 </div>
